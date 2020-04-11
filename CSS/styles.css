@@ -21,6 +21,8 @@ body{
 
 .About-us{
     text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 .services{
@@ -34,6 +36,8 @@ body{
 
 .container{
     text-align: center;
+    padding-bottom: 20px;
+    padding-top: 20px;
 }
 
 .contact-us{
@@ -41,7 +45,7 @@ body{
     background-image: url(../assets/backgrounds/c_image.jpg);
     background-size: cover;
     padding-top: 50px;
-    padding-bottom: 100px;
+    padding-bottom: 10px;
 }
 
 .social{
@@ -77,5 +81,10 @@ body{
 .last{
     text-align: center;
     padding-bottom: 20px;
+}
+
+.image{
+    padding-right: 10px;
+    padding-left: 10px;
 }
 
