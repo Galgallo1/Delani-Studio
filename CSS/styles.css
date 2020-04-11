@@ -34,5 +34,7 @@
 .contact-us{
     text-align: center;
     background-image: url(../assets/backgrounds/c_image.jpg);
+    background-size: cover;
+    padding-top: 50px;
 }
 
