@@ -45,13 +45,13 @@ body{
     background-image: url(../assets/backgrounds/c_image.jpg);
     background-size: cover;
     padding-top: 50px;
-    padding-bottom: 10px;
+    padding-bottom: 100px;
 }
 
 .social{
     align-content: center;
     text-align: center;
-    padding-top: 50px;
+    padding-top: 30px;
     padding-bottom: 20px;
 }
 
@@ -63,28 +63,12 @@ body{
 
 }
 
-.portfolio{
-    padding-bottom: 50px;
-    padding: 20px, 20px, 20px, 20px;
-}
-
-.col-md-3{
-    padding: 10px;
-    margin: auto;
-}
-
-.image{
-    padding-top: 200px;
-    padding-bottom: 10px;
-}
-
 .last{
     text-align: center;
     padding-bottom: 20px;
 }
 
 .image{
-    padding-right: 10px;
-    padding-left: 10px;
+    margin-right: 10px;
 }
 
