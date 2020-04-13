@@ -7,6 +7,10 @@ body{
     padding-bottom: 50px;
 }
 
+.mouse{
+    padding-top: 200px;
+}
+
 .Introduction{
     background-image: url(../assets/backgrounds/h_img.jpg);
     background-size: cover;
@@ -15,6 +19,7 @@ body{
     padding-top: 200px;
     padding-left: 200px;
     padding-right: 200px;
+    padding-bottom: 20px;
     color: white;
     
 }
@@ -55,20 +60,17 @@ body{
     padding-bottom: 20px;
 }
 
-.row{
-    padding: 15px;
-    padding: 30px,50px, 10px,20px;
-    border: 20px, 30px, 20px, 30px;
-    
 
-}
 
 .last{
     text-align: center;
     padding-bottom: 20px;
 }
 
-.image{
+#image{
     margin-right: 10px;
+    margin-left: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 

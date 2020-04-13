@@ -18,9 +18,9 @@ $(document).ready(function(){
         $("#paragraph3").toggle();
     });
     
+    $("#button").on("click",function(){
+        alert("We have received your message and we'll respond to it appropriately. Thank you!")
+    })
 
-        
 
-    
-
-});
+    });
