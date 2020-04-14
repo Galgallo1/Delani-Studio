@@ -31,7 +31,7 @@ This project is a web application for Delani studio that shows details about the
 
 ## BDD
 
-1. Open the website at <a href="https://galgallo1.github.io/Delani-Studio//">
+1. Open the website at <a href="https://galgallo1.github.io/Delani-Studio//"></a>
 2. Go throug the website to see what it offers.
 3. click on the design, development and product development icons to see further explanation.
 4. If you have any enquiries, requests and comments reach us through  the "contact us" section.
