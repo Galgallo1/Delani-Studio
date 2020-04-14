@@ -19,8 +19,31 @@ $(document).ready(function(){
     });
     
     $("#button").on("click",function(){
-        alert("We have received your message and we'll respond to it appropriately. Thank you!")
+        if($("#name").value == "" || $("#mail").value == "") {
+            alert("PLease fill out all the fields");
+            return false;
+        }else{
+            alert("We have received your message and we'll respond to it appropriately. Thank you!");
+            return true;
+        }
+    });
+
+    $("#image").mouseover(function(){
+        $(".text").show();
+
+        $(this).mouseout(function(){
+            $(".text").hide();
+        })
     })
+
+    $("#form").on("submit",function(){
+        if($("#name").value == "" || $("#mail".value) == "") {
+            alert("PLease fill out all the fields");
+            return false;
+        }else{
+            return true;
+        }
+    });
 
 
     });
